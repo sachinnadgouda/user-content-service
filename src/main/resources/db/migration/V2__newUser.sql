@@ -1,0 +1,1 @@
+INSERT INTO user(username, first_name, last_name, role) VALUES('User3', 'user', 'three', 'USER');
